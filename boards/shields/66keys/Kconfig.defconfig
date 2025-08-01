@@ -1,0 +1,6 @@
+if SHIELD_SIXSIXKEYS
+
+config SUNSET
+  default "66keys"
+
+endif
